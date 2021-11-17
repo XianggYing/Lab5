@@ -201,7 +201,7 @@ public class ChatRoom extends AppCompatActivity {
             this.sendOrReceive = sendOrReceive;
             this.timeSent2 = timeSent;
             setID(id);
-
+//
         }
 
         public String getMessage() {
