@@ -17,7 +17,7 @@ public class MyOpenHelper extends SQLiteOpenHelper {
 
     public MyOpenHelper(Context context) {
         super(context, name, null, version);
-
+//
     }
 
     @Override
